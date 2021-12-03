@@ -5,7 +5,7 @@
 
 
 
-[![LinkedIn](http://lnnk.in/@pe)](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)]((http://lnnk.in/@pe))
 
 
 [![Benzin-Akt](https://docs.google.com/spreadsheets/d/e/2PACX-1vStPblBtmg4O4ddc6pOF9edeu-IzfsjxmynNpqzs3me9czw5K1aIIBw4HW9Cni9vM7Kse8QQTh0GG8a/pubchart?oid=678203108&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vStPblBtmg4O4ddc6pOF9edeu-IzfsjxmynNpqzs3me9czw5K1aIIBw4HW9Cni9vM7Kse8QQTh0GG8a/pubchart?oid=678203108&format=interactive)
