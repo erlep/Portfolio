@@ -1,15 +1,5 @@
 # [peg's Demo Projects Portfolio](https://github.com/erlep/Portfolio)
 
-
-[GitHub]( https://GitHub.com/ErleP)
-
-
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)]((http://lnnk.in/@pe))
-
-
-[![Benzin-Akt](https://docs.google.com/spreadsheets/d/e/2PACX-1vStPblBtmg4O4ddc6pOF9edeu-IzfsjxmynNpqzs3me9czw5K1aIIBw4HW9Cni9vM7Kse8QQTh0GG8a/pubchart?oid=678203108&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vStPblBtmg4O4ddc6pOF9edeu-IzfsjxmynNpqzs3me9czw5K1aIIBw4HW9Cni9vM7Kse8QQTh0GG8a/pubchart?oid=678203108&format=interactive)
-
 ---
 
 
@@ -33,16 +23,22 @@ Javascript & Google Sheets
 - ## Petrol prices in Brno via Python & Streamlit - <https://share.streamlit.io/erlep/webtest/main/bbWeb.py>
 
 ---
-- [GitHub]( https://GitHub.com/ErleP)
-- [LinkedIn]( http://lnnk.in/@pe)
+<a href="https://GitHub.com/ErleP" target="_blank">
+<img border="0" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50">
+</a>
+<a href="http://lnnk.in/@pe" target="_blank">
+<img border="0" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">
+</a>
+
+[GitHub](https://GitHub.com/ErleP)
+[LinkedIn](http://lnnk.in/@pe)
+
 
 ---
 
-Version:  v4 - Modified on 03.12.2021 15:27
+Version:  v7 - Modified on 03.12.2021 15:52
 
 
 ---
 
 ---
-
-[![Benzin-Akt](https://docs.google.com/spreadsheets/d/e/2PACX-1vStPblBtmg4O4ddc6pOF9edeu-IzfsjxmynNpqzs3me9czw5K1aIIBw4HW9Cni9vM7Kse8QQTh0GG8a/pubchart?oid=678203108&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vStPblBtmg4O4ddc6pOF9edeu-IzfsjxmynNpqzs3me9czw5K1aIIBw4HW9Cni9vM7Kse8QQTh0GG8a/pubchart?oid=678203108&format=interactive)
