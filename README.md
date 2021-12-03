@@ -1,8 +1,12 @@
 # [peg's Demo Projects Portfolio](https://github.com/erlep/Portfolio)
+
+
 [GitHub]( https://GitHub.com/ErleP)
 
 
+
 [![LinkedIn](http://lnnk.in/@pe)](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+
 
 ---
 
@@ -32,7 +36,7 @@ Javascript & Google Sheets
 
 ---
 
-Version:  v2 - Modified on 03.12.2021 15:27
+Version:  v4 - Modified on 03.12.2021 15:27
 
 
 ---
