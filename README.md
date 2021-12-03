@@ -29,14 +29,18 @@ Javascript & Google Sheets
 <a href="http://lnnk.in/@pe" target="_blank">
 <img border="0" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">
 </a>
+<a href="https://erlep.github.io/Portfolio" target="_blank">
+<img border="0" alt="Portfolio" src="img/IMG_1470.JPG" width="50" height="50">
+</a>
 
 [GitHub](https://GitHub.com/ErleP)
 [LinkedIn](http://lnnk.in/@pe)
+[Portfolio](https://erlep.github.io/Portfolio)
 
 
 ---
 
-Version:  v7 - Modified on 03.12.2021 15:52
+Version: v8 - Modified on 03.12.2021 16:08
 
 
 ---
