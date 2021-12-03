@@ -2,7 +2,7 @@
 [GitHub]( https://GitHub.com/ErleP)
 
 
-[![LinkedIn](http://lnnk.in/@pe)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fca%2FLinkedIn_logo_initials.png%2F768px-LinkedIn_logo_initials.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&tbnid=eZhkN9NwNWP6vM&vet=12ahUKEwiy59r66sf0AhUTcxQKHbK6AoUQMygAegUIARDXAQ..i&docid=YvoKnije3nifwM&w=768&h=768&itg=1&q=linkedin&hl=en&ved=2ahUKEwiy59r66sf0AhUTcxQKHbK6AoUQMygAegUIARDXAQ)
+[![LinkedIn](http://lnnk.in/@pe)](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
 
 ---
 
