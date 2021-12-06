@@ -3,24 +3,29 @@
 ---
 
 
-- ## Own Git project - <http://peg.aspifyhost.cz>
-C# & ASP.Net Core
+- ## [Own Git project](<http://peg.aspifyhost.cz>)
+C# & ASP. Net Core v2.1 applikaction for file version control system.
+The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
 
 ---
 
-- ## ToDo Project -  <https://peg.pythonanywhere.com>
-Python & Django
-
----
-
-
-- ## Petrol prices in Brno - <https://erlep.github.io/Benzin_Brno>
-Javascript & Google Sheets
+- ## [ToDo Project](<https://peg.pythonanywhere.com>)
+ToDo Project written in Python & Django is a cloud-based simple task management application.
 
 ---
 
 
-- ## Petrol prices in Brno via Python & Streamlit - <https://share.streamlit.io/erlep/webtest/main/bbWeb.py>
+- ## [Petrol prices in Brno](<https://erlep.github.io/Benzin_Brno>)
+Javascript & Google Sheets application to monitor petrol prices in Brno city.
+
+---
+
+
+- ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
+
+Python & Streamlit application to monitor petrol prices in Brno city.
+Not yet fully implemented.
+
 
 ---
 <a href="https://GitHub.com/ErleP" target="_blank">
@@ -40,9 +45,8 @@ Javascript & Google Sheets
 
 ---
 
-Version: v8 - Modified on 03.12.2021 16:08
+Version: v9 - Modified on 06.12.2021
 
 
 ---
-
 ---
