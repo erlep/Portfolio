@@ -2,7 +2,6 @@
 
 ---
 
-
 - ## [Own Git project](<http://peg.aspifyhost.cz>)
 **C#** & **ASP. Net Core v2.1** applikaction for file version control system.
 The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
@@ -14,18 +13,15 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-
 - ## [Petrol prices in Brno](<https://erlep.github.io/Benzin_Brno>)
 **Javascript** & **Google Sheets** application to monitor petrol prices in Brno city.
 
 ---
 
-
 - ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
 
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
 Not yet fully implemented.
-
 
 ---
 <a href="https://GitHub.com/ErleP" target="_blank">
@@ -42,11 +38,9 @@ Not yet fully implemented.
 [**LinkedIn**](http://lnnk.in/@pe)
 [**Portfolio**](https://erlep.github.io/Portfolio)
 
-
 ---
 
-Version: v10 - Modified on 06.12.2021
-
+Version: <mark>v11</mark> - Modified on <mark>06.12.2021</mark>
 
 ---
 ---
