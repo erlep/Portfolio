@@ -1,29 +1,29 @@
-# [peg's Demo Projects Portfolio](https://github.com/erlep/Portfolio)
+# [**peg's Demo Projects Portfolio**](https://github.com/erlep/Portfolio)
 
 ---
 
 
 - ## [Own Git project](<http://peg.aspifyhost.cz>)
-C# & ASP. Net Core v2.1 applikaction for file version control system.
+**C#** & **ASP. Net Core v2.1** applikaction for file version control system.
 The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
 
 ---
 
 - ## [ToDo Project](<https://peg.pythonanywhere.com>)
-ToDo Project written in Python & Django is a cloud-based simple task management application.
+ToDo Project written in **Python** & **Django** is a cloud-based simple task management application.
 
 ---
 
 
 - ## [Petrol prices in Brno](<https://erlep.github.io/Benzin_Brno>)
-Javascript & Google Sheets application to monitor petrol prices in Brno city.
+**Javascript** & **Google Sheets** application to monitor petrol prices in Brno city.
 
 ---
 
 
 - ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
 
-Python & Streamlit application to monitor petrol prices in Brno city.
+**Python** & **Streamlit** application to monitor petrol prices in Brno city.
 Not yet fully implemented.
 
 
@@ -38,14 +38,14 @@ Not yet fully implemented.
 <img border="0" alt="Portfolio" src="img/IMG_1470.JPG" width="50" height="50">
 </a>
 
-[GitHub](https://GitHub.com/ErleP)
-[LinkedIn](http://lnnk.in/@pe)
-[Portfolio](https://erlep.github.io/Portfolio)
+[**GitHub**](https://GitHub.com/ErleP)
+[**LinkedIn**](http://lnnk.in/@pe)
+[**Portfolio**](https://erlep.github.io/Portfolio)
 
 
 ---
 
-Version: v9 - Modified on 06.12.2021
+Version: v10 - Modified on 06.12.2021
 
 
 ---
