@@ -24,6 +24,13 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 Not yet fully implemented.
 
 ---
+
+- ## [Python-Interview](<https://GitHub.com/ErleP/Python-Interview>)
+**Python** notes not only for Preparing for a Python Interview.
+
+
+
+---
 <a href="https://GitHub.com/ErleP" target="_blank">
 <img border="0" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50">
 </a>
@@ -40,7 +47,7 @@ Not yet fully implemented.
 
 ---
 
-Version: <mark>v11</mark> - Modified on <mark>06.12.2021</mark>
+Version: <mark>v12</mark> - Modified on <mark>07.12.2021</mark>
 
 ---
 ---
