@@ -24,7 +24,6 @@ Not yet fully implemented.
 ---
 - ## [PegBot - Player for Piškvorky by Jobs.cz](<https://bit.ly/30rsSdX>)
 **Python** & **REST API** A bot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz/) server.
-
 You can find the score of this bot on the [PegBot's detail page](https://bit.ly/30rsSdX).
 
 ---
@@ -50,7 +49,7 @@ You can find the score of this bot on the [PegBot's detail page](https://bit.ly/
 
 ---
 
-Version: <mark>v14d</mark> - Xmas edition -  Modified on <mark>23.12.2021</mark>
+Version: <mark>v14e</mark> - Xmas edition -  Modified on <mark>23.12.2021</mark>
 
 ---
 ---
