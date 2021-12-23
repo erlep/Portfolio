@@ -18,7 +18,6 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 - ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
-
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
 Not yet fully implemented.
 
@@ -51,7 +50,7 @@ You can find the score of this bot on the [PegBot's detail page](https://bit.ly/
 
 ---
 
-Version: <mark>v14b</mark> - Xmas edition -  Modified on <mark>23.12.2021</mark>
+Version: <mark>v14d</mark> - Xmas edition -  Modified on <mark>23.12.2021</mark>
 
 ---
 ---
