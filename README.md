@@ -17,14 +17,18 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 **Javascript** & **Google Sheets** application to monitor petrol prices in Brno city.
 
 ---
-
 - ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
 
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
 Not yet fully implemented.
 
 ---
+- ## [PegBot - Player for Piškvorky by Jobs.cz](<https://bit.ly/30rsSdX>)
+**Python** & **REST API ** A bot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz/) server.
 
+You can find the score of this bot on the [PegBot's detail page](https://bit.ly/30rsSdX).
+
+---
 - ## [Python-Interview](<https://GitHub.com/ErleP/Python-Interview>)
 **Python** notes not only for Preparing for a Python Interview.
 
@@ -47,7 +51,7 @@ Not yet fully implemented.
 
 ---
 
-Version: <mark>v12</mark> - Modified on <mark>07.12.2021</mark>
+Version: <mark>v14</mark> - Xmas edition -  Modified on <mark>23.12.2021</mark>
 
 ---
 ---
