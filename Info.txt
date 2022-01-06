@@ -12,6 +12,7 @@ https://GitHub.com/ErleP/Python-Interview
 --
 https://aws.amazon.com
 https://piskvorky.jobs.cz
+https://piskvorky.jobs.cz/prehled-hracu
 https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png
 
