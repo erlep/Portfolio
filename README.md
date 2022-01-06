@@ -50,7 +50,7 @@ You can find the score of this robot on the [PegBot's detail page](https://bit.l
 <img border="0" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">
 </a>
 <a href="https://erlep.github.io/Portfolio" target="_blank">
-<img border="0" alt="Portfolio" src="img/IMG_1470.JPG" width="50" height="50">
+<img border="0" alt="Portfolio" src="https://am4pap001files.storage.live.com/y4mcXaX-JYD0Kqa0Y9qpDF3lozpknJzSVPhQJyeB7DThGEXbeEixwSSo4PQ0BA8y2ZYlXBjtJxYoG8NSnyr0npbmbqzs1a66zUTFIKMXmXIEyJ_vQQqnnKjhtLJsAxxk0tIAAkjK_Fh40dlxKMba9JPKVhmDPFgWrAmoWNX1LrdDMWVTxQQKXP8c5KX1NfB2Zq0?width=3072&height=2304&cropmode=none" width="50" height="50">
 </a>
 
 [**GitHub**](https://GitHub.com/ErleP)
@@ -59,11 +59,8 @@ You can find the score of this robot on the [PegBot's detail page](https://bit.l
 
 ---
 
-Version: <mark>v17</mark> - Modified on <mark>06.01.2022 17:48</mark>
+Version: <mark>v18</mark> - Modified on <mark>06.01.2022 17:59</mark>
 
 ---
 ---
-
-[** test PCT **](https://am4pap001files.storage.live.com/y4mcXaX-JYD0Kqa0Y9qpDF3lozpknJzSVPhQJyeB7DThGEXbeEixwSSo4PQ0BA8y2ZYlXBjtJxYoG8NSnyr0npbmbqzs1a66zUTFIKMXmXIEyJ_vQQqnnKjhtLJsAxxk0tIAAkjK_Fh40dlxKMba9JPKVhmDPFgWrAmoWNX1LrdDMWVTxQQKXP8c5KX1NfB2Zq0?width=3072&height=2304&cropmode=none)
-
 
