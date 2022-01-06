@@ -59,8 +59,7 @@ You can find the score of this robot on the [PegBot's detail page](https://bit.l
 
 ---
 
-Version: <mark>v18</mark> - Modified on <mark>06.01.2022 17:59</mark>
+Version: <mark>v19</mark> - Modified on <mark>06.01.2022 18:01</mark>
 
 ---
 ---
-
