@@ -3,36 +3,46 @@
 ---
 
 - ## [Own Git project](<http://peg.aspifyhost.cz>)
+
 **C#** & **ASP. Net Core v2.1** applikaction for file version control system.
 The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
 
 ---
 
 - ## [ToDo Project](<https://peg.pythonanywhere.com>)
+
 ToDo Project written in **Python** & **Django** is a cloud-based simple task management application.
 
 ---
 
 - ## [Petrol prices in Brno](<https://erlep.github.io/Benzin_Brno>)
-**Javascript** & **Google Sheets** application to monitor petrol prices in Brno city.
+
+**Javascript** & **Google Sheets** cloud application to monitor petrol prices in Brno city.
 
 ---
+
 - ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
+
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
+The web scraping robot runs in the [AWS Cloud](https://aws.amazon.com).
 Not yet fully implemented.
 
 ---
+
 - ## [PegBot - Player for Piškvorky by Jobs.cz](<https://bit.ly/30rsSdX>)
-**Python** & **REST API** A bot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz/) server.
-You can find the score of this bot on the [PegBot's detail page](https://bit.ly/30rsSdX).
+
+**Python** & **REST API** An API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server.
+
+You can find the score of this robot on the [PegBot's detail page](https://bit.ly/30rsSdX). The robot runs in the [AWS cloud](https://aws.amazon.com).
 
 ---
+
 - ## [Python-Interview](<https://GitHub.com/ErleP/Python-Interview>)
+
 **Python** notes not only for Preparing for a Python Interview.
 
-
-
 ---
+
 <a href="https://GitHub.com/ErleP" target="_blank">
 <img border="0" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50">
 </a>
@@ -49,7 +59,7 @@ You can find the score of this bot on the [PegBot's detail page](https://bit.ly/
 
 ---
 
-Version: <mark>v14e</mark> - Xmas edition -  Modified on <mark>23.12.2021</mark>
+Version: <mark>v15</mark> - Modified on <mark>06.01.2022 17:38</mark>
 
 ---
 ---

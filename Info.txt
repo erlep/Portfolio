@@ -1,0 +1,19 @@
+This is file with links.
+https://GitHub.com/ErleP
+http://lnnk.in/@pe
+https://github.com/erlep/Portfolio
+--
+http://peg.aspifyhost.cz
+https://peg.pythonanywhere.com
+https://erlep.github.io/Benzin_Brno
+https://share.streamlit.io/erlep/webtest/main/bbWeb.py
+https://bit.ly/30rsSdX
+https://GitHub.com/ErleP/Python-Interview
+--
+https://aws.amazon.com
+https://piskvorky.jobs.cz
+https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png
+
+---
+---
