@@ -21,7 +21,9 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-- ## [Petrol prices in Brno via Python & Streamlit](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
+- ## [Petrol prices in Brno via Python & Streamlit v1](<https://share.streamlit.io/erlep/ppbb/main/bbWeb.py>)
+
+- ## [Petrol prices in Brno via Python & Streamlit v0](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
 
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
 The web scraping robot runs in the [AWS Cloud](https://aws.amazon.com).
@@ -59,7 +61,7 @@ You can find the score of this robot on the [PegBot's detail page](https://bit.l
 
 ---
 
-Version: <mark>v19</mark> - Modified on <mark>06.01.2022 18:01</mark>
+Version: <mark>v20</mark> - Modified on <mark>07.01.2022 18:01</mark>
 
 ---
 ---
