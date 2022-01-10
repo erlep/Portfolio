@@ -2,14 +2,14 @@
 
 ---
 
-- ## [Own Git project](<http://peg.aspifyhost.cz>)
+- ## [Own Git project - http://peg.aspifyhost.cz](<http://peg.aspifyhost.cz>)
 
 **C#** & **ASP. Net Core v2.1** applikaction for file version control system.
 The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
 
 ---
 
-- ## [ToDo Project](<https://peg.pythonanywhere.com>)
+- ## [ToDo Project - https://peg.pythonanywhere.com](<https://peg.pythonanywhere.com>)
 
 ToDo Project written in **Python** & **Django** is a cloud-based simple task management application.
 
@@ -61,7 +61,7 @@ You can find the score of this robot on the [PegBot's detail page](https://bit.l
 
 ---
 
-Version: <mark>v20</mark> - Modified on <mark>07.01.2022 18:01</mark>
+Version: <mark>v21</mark> - Modified on <mark>10.01.2022 16:17</mark>
 
 ---
 ---
