@@ -1,11 +1,11 @@
 # [**peg's Demo Projects Portfolio**](https://erlep.github.io/Portfolio/)
 
-Portfoloio of demo project created in:
+Portfolio of demo projects created via:
 
 - Python
 - Django
 - C#
-- ASP. Net Core v2.1
+- ASP.Net Core v2.1
 - Javascript
 - REST API
 
@@ -82,7 +82,7 @@ GitHub is not publicly available.
 
 ---
 
-Version: <mark>v23</mark> - Modified on <mark>10.01.2022 16:17</mark>
+Version: <mark>v24</mark> - Modified on <mark>10.01.2022 16:17</mark>
 
 ---
 ---
