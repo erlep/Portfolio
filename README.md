@@ -62,6 +62,8 @@ GitHub is not publicly available.
 
 **Python** notes not only for Preparing for a Python Interview.
 
+[GitHub](<https://GitHub.com/ErleP/Python-Interview>)
+
 ---
 
 <a href="https://GitHub.com/ErleP" target="_blank">
@@ -80,7 +82,7 @@ GitHub is not publicly available.
 
 ---
 
-Version: <mark>v22</mark> - Modified on <mark>10.01.2022 16:17</mark>
+Version: <mark>v23</mark> - Modified on <mark>10.01.2022 16:17</mark>
 
 ---
 ---
