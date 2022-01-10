@@ -1,4 +1,15 @@
-# [**peg's Demo Projects Portfolio**](https://github.com/erlep/Portfolio)
+# [**peg's Demo Projects Portfolio**](https://erlep.github.io/Portfolio/)
+
+Portfoloio of demo project created in:
+
+- Python
+- Django
+- C#
+- ASP. Net Core v2.1
+- Javascript
+- REST API
+
+[GitHub](<https://github.com/erlep/Portfolio>)
 
 ---
 
@@ -7,11 +18,15 @@
 **C#** & **ASP. Net Core v2.1** applikaction for file version control system.
 The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
 
+[GitHub](<https://github.com/erlep/MyGit>)
+
 ---
 
 - ## [ToDo Project - https://peg.pythonanywhere.com](<https://peg.pythonanywhere.com>)
 
 ToDo Project written in **Python** & **Django** is a cloud-based simple task management application.
+
+[GitHub](<https://github.com/erlep/DjangoApp>)
 
 ---
 
@@ -19,15 +34,17 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 **Javascript** & **Google Sheets** cloud application to monitor petrol prices in Brno city.
 
+[GitHub](<https://github.com/erlep/Benzin_Brno>)
+
 ---
 
 - ## [Petrol prices via Python & Streamlit - https://erlep.github.io/ppBB](<https://erlep.github.io/ppBB>)
 
-[Streamlit Chart](<https://share.streamlit.io/erlep/ppbb/main/bbWeb.py>)
-
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
 The web scraping robot runs in the [AWS Cloud](https://aws.amazon.com).
 Not yet fully implemented.
+
+[Streamlit](<https://share.streamlit.io/erlep/ppbb/main/bbWeb.py>) - [GitHub](<https://github.com/erlep/ppBB>)
 
 ---
 
@@ -36,6 +53,8 @@ Not yet fully implemented.
 **Python** & **REST API** An API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server. **PegBot** is in the [**Top 25**](https://piskvorky.jobs.cz/prehled-hracu) robots out of 700.
 
 You can find the score of this robot on the [PegBot's detail page](https://bit.ly/30rsSdX). The robot runs in the [AWS cloud](https://aws.amazon.com).
+
+GitHub is not publicly available.
 
 ---
 
@@ -61,7 +80,7 @@ You can find the score of this robot on the [PegBot's detail page](https://bit.l
 
 ---
 
-Version: <mark>v21</mark> - Modified on <mark>10.01.2022 16:17</mark>
+Version: <mark>v22</mark> - Modified on <mark>10.01.2022 16:17</mark>
 
 ---
 ---
