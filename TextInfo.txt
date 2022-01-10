@@ -8,6 +8,8 @@ https://am4pap001files.storage.live.com/y4mcXaX-JYD0Kqa0Y9qpDF3lozpknJzSVPhQJyeB
 http://peg.aspifyhost.cz
 https://peg.pythonanywhere.com
 https://erlep.github.io/Benzin_Brno
+https://erlep.github.io/ppBB/
+https://share.streamlit.io/erlep/ppbb/main/bbWeb.py
 https://share.streamlit.io/erlep/webtest/main/bbWeb.py
 https://bit.ly/30rsSdX
 https://GitHub.com/ErleP/Python-Interview

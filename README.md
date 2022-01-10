@@ -15,15 +15,15 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-- ## [Petrol prices in Brno](<https://erlep.github.io/Benzin_Brno>)
+- ## [Petrol prices in Brno - https://erlep.github.io/Benzin_Brno](<https://erlep.github.io/Benzin_Brno>)
 
 **Javascript** & **Google Sheets** cloud application to monitor petrol prices in Brno city.
 
 ---
 
-- ## [Petrol prices in Brno via Python & Streamlit v1](<https://share.streamlit.io/erlep/ppbb/main/bbWeb.py>)
+- ## [Petrol prices via Python & Streamlit - https://erlep.github.io/ppBB](<https://erlep.github.io/ppBB>)
 
-- ## [Petrol prices in Brno via Python & Streamlit v0](<https://share.streamlit.io/erlep/webtest/main/bbWeb.py>)
+[Streamlit Chart](<https://share.streamlit.io/erlep/ppbb/main/bbWeb.py>)
 
 **Python** & **Streamlit** application to monitor petrol prices in Brno city.
 The web scraping robot runs in the [AWS Cloud](https://aws.amazon.com).
