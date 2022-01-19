@@ -68,11 +68,11 @@ GitHub is not publicly available.
 
 | [**GitHub**](https://GitHub.com/ErleP) | [**LinkedIn**](http://lnnk.in/@pe) | [**Portfolio**](https://erlep.github.io/Portfolio) |
 |:--:|:--:|:--:|
-|<a href="https://GitHub.com/ErleP" target="_blank"> <img border="0" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"> </a>  |  <a href="http://lnnk.in/@pe" target="_blank"> <img border="0" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"> </a>  | <img border="0" alt="Portfolio" src="https://am4pap001files.storage.live.com/y4mcXaX-JYD0Kqa0Y9qpDF3lozpknJzSVPhQJyeB7DThGEXbeEixwSSo4PQ0BA8y2ZYlXBjtJxYoG8NSnyr0npbmbqzs1a66zUTFIKMXmXIEyJ_vQQqnnKjhtLJsAxxk0tIAAkjK_Fh40dlxKMba9JPKVhmDPFgWrAmoWNX1LrdDMWVTxQQKXP8c5KX1NfB2Zq0?width=3072&height=2304&cropmode=none" width="50" height="50"> </a>    |
+|<a href="https://GitHub.com/ErleP" target="_blank"> <img border="0" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"> </a>  |  <a href="http://lnnk.in/@pe" target="_blank"> <img border="0" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"> </a>  |<a href="https://erlep.github.io/Portfolio/" target="_blank"> <img border="0" alt="Portfolio" src="https://am4pap001files.storage.live.com/y4mcXaX-JYD0Kqa0Y9qpDF3lozpknJzSVPhQJyeB7DThGEXbeEixwSSo4PQ0BA8y2ZYlXBjtJxYoG8NSnyr0npbmbqzs1a66zUTFIKMXmXIEyJ_vQQqnnKjhtLJsAxxk0tIAAkjK_Fh40dlxKMba9JPKVhmDPFgWrAmoWNX1LrdDMWVTxQQKXP8c5KX1NfB2Zq0?width=3072&height=2304&cropmode=none" width="50" height="50"> </a>    |
 
 ---
 
-Version: <mark>v25</mark> - Modified on <mark>10.01.2022 16:17</mark>
+Version: <mark>v26</mark> - Modified on <mark>19.01.2022 11:04</mark>
 
 ---
 ---
