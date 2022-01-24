@@ -8,6 +8,8 @@ Portfolio of demo projects created via:
 - ASP.Net Core v2.1
 - Javascript
 - REST API
+- AWS Cloud
+- Google Cloud
 
 [GitHub](<https://github.com/erlep/Portfolio>)
 
@@ -38,9 +40,9 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-- ## [Petrol prices via Python & Streamlit - https://erlep.github.io/ppBB](<https://erlep.github.io/ppBB>)
+- ## [Petrol prices via Python, Streamlit & AWS - https://erlep.github.io/ppBB](<https://erlep.github.io/ppBB>)
 
-**Python** & **Streamlit** application to monitor petrol prices in Brno city.
+**Python**, **Streamlit** & **AWS** application to monitor petrol prices in Brno city.
 The web scraping robot runs in the [AWS Cloud](https://aws.amazon.com).
 Not yet fully implemented.
 
@@ -50,9 +52,9 @@ Not yet fully implemented.
 
 - ## [PegBot - Player for Piškvorky by Jobs.cz](<https://bit.ly/30rsSdX>)
 
-**Python** & **REST API** An API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server. My robot called [**PegBot**](https://piskvorky.jobs.cz/prehled-hracu) is in the [**Top 20**](https://piskvorky.jobs.cz/prehled-hracu) out of 700 robots.
+**Python**, **REST API** & **AWS** API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server. My robot called [**PegBot**](https://piskvorky.jobs.cz/prehled-hracu) is in the [**Top 20**](https://piskvorky.jobs.cz/prehled-hracu) out of 700 robots.
 
-You can find the score of this robot on the [PegBot's detail page](https://bit.ly/30rsSdX). The robot runs in the [AWS cloud](https://aws.amazon.com).
+You can find the score of this robot on the [PegBot's detail page](https://bit.ly/30rsSdX). The robot runs in the [AWS Cloud](https://aws.amazon.com).
 
 GitHub is not publicly available.
 
@@ -72,7 +74,7 @@ GitHub is not publicly available.
 
 ---
 
-Version: <mark>v27</mark> - Modified on <mark>20.01.2022 09:09</mark>
+Version: <mark>v28</mark> - Modified on <mark>24.01.2022 09:09</mark>
 
 ---
 ---
