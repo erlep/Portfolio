@@ -52,7 +52,7 @@ Not yet fully implemented.
 
 - ## [PegBot - Player for Piškvorky by Jobs.cz](<https://bit.ly/30rsSdX>)
 
-**Python**, **REST API** & **AWS** API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server. My robot called [**PegBot**](https://piskvorky.jobs.cz/prehled-hracu) is in the [**Top 20**](https://piskvorky.jobs.cz/prehled-hracu) out of 700 robots.
+**Python**, **REST API** & **AWS** API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server. My robot called [**PegBot**](https://piskvorky.jobs.cz/prehled-hracu) is in the [**Top 15**](https://piskvorky.jobs.cz/prehled-hracu) out of 700 robots.
 
 You can find the score of this robot on the [PegBot's detail page](https://bit.ly/30rsSdX). The robot runs in the [AWS Cloud](https://aws.amazon.com).
 
@@ -74,7 +74,7 @@ GitHub is not publicly available.
 
 ---
 
-Version: <mark>v28</mark> - Modified on <mark>24.01.2022 09:09</mark>
+Version: <mark>v29</mark> - Modified on <mark>14.02.2022 09:09</mark>
 
 ---
 ---
