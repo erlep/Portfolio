@@ -8,14 +8,13 @@ Portfolio of demo projects created via following Tech-stack:
 - ASP.Net Core v2.1
 - Javascript
 - REST API
-- AWS Cloud
-- Google Cloud
+- Cloud: AWS, Google & GitHub Actions
 
 [GitHub](https://github.com/erlep/Portfolio)
 
 ---
 
-- ## [Own Git project - http://peg.aspifyhost.cz](http://peg.aspifyhost.cz)
+- ## [**Own Git** project - http://peg.aspifyhost.cz](http://peg.aspifyhost.cz)
 
 **C#** & **ASP. Net Core v2.1** applikaction for file version control system.
 The program can detect changes in the local directory specified in the input. The first time the program is run, it analyzes the contents of the directory and reports the changes since the last run.
@@ -24,7 +23,7 @@ The program can detect changes in the local directory specified in the input. Th
 
 ---
 
-- ## [Petrol prices in Brno - https://erlep.github.io/Benzin_Brno](https://erlep.github.io/Benzin_Brno)
+- ## [**Petrol prices** in Brno - https://erlep.github.io/Benzin_Brno](https://erlep.github.io/Benzin_Brno)
 
 **Javascript** & **Google Sheets** cloud application to monitor petrol prices in Brno city.
 
@@ -32,17 +31,13 @@ The program can detect changes in the local directory specified in the input. Th
 
 ---
 
-- ## [Petrol prices via Python & AWS - https://erlep.github.io/ppBB](https://erlep.github.io/ppBB)
+- ## [**ppBB** - Python Project Benzin Brno - https://erlep.github.io/ppBB](https://erlep.github.io/ppBB)
 
-**Python** application to monitor petrol prices in Brno city.
-The web scraping robot runs in the [AWS Cloud](https://aws.amazon.com).
-Not yet fully implemented.
-
-Tech-stack: Python, Pandas, Matplotlib, Asyncio, Beautiful Soup, Playwright, Streamlit
+[**ppBB** (Python Project Benzin Brno)](https://github.com/erlep/ppBB) is **Python** application to monitor petrol prices in Brno city. The web scraping robot runs in the ~~[AWS Cloud](https://aws.amazon.com)~~ [GitHub Actions Cloud](https://github.com/). ppBB app is used as a Javascript renderer for Google Sheet script to monitor petrol prices in Brno city.
 
 ---
 
-- ## [PegBot - Player for Piškvorky by Jobs.cz](https://bit.ly/30rsSdX)
+- ## [**PegBot** - Player for Piškvorky by Jobs.cz](https://bit.ly/30rsSdX)
 
 **Python**, **REST API** & **AWS** API player robot application to plays Gomoku game against other bots on the [piskvorky.jobs.cz](https://piskvorky.jobs.cz) server. My robot called [**PegBot**](https://piskvorky.jobs.cz/prehled-hracu) is in the [**Top 15**](https://piskvorky.jobs.cz/prehled-hracu) out of 700 robots.
 
@@ -52,7 +47,7 @@ GitHub is not publicly available.
 
 ---
 
-- ## [ToDo Project - https://peg.pythonanywhere.com](https://peg.pythonanywhere.com)
+- ## [**ToDo** Project - https://peg.pythonanywhere.com](https://peg.pythonanywhere.com)
 
 ToDo Project written in **Python** & **Django** is a cloud-based simple task management application.
 
@@ -60,7 +55,7 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-- ## [Python-Interview](https://GitHub.com/ErleP/Python-Interview)
+- ## [**Python-Interview**](https://GitHub.com/ErleP/Python-Interview)
 
 **Python** notes not only for Preparing for a Python Interview.
 
@@ -74,7 +69,7 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-Version: <mark>v30</mark> - Modified on <mark>9.06.2022 09:06</mark>
+Version: <mark>v31</mark> - Modified on <mark>9.12.2022 17:17</mark>
 
 ---
 
