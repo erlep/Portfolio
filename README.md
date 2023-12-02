@@ -23,17 +23,17 @@ The program can detect changes in the local directory specified in the input. Th
 
 ---
 
+- ## [**ppBB** - Python Project Benzin Brno - https://erlep.github.io/ppBB](https://erlep.github.io/ppBB)
+
+[**ppBB** (Python Project Benzin Brno)](https://github.com/erlep/ppBB) is **Python** application to monitor petrol prices in Brno city. The web scraping robot runs in the ~~[AWS Cloud](https://aws.amazon.com)~~ [GitHub Actions Cloud](https://github.com/). ppBB app is used as a Javascript renderer for Google Sheet script to monitor petrol prices in Brno city.
+
+---
+
 - ## [**Petrol prices** in Brno - https://erlep.github.io/Benzin_Brno](https://erlep.github.io/Benzin_Brno)
 
 **Javascript** & **Google Sheets** cloud application to monitor petrol prices in Brno city.
 
 [GitHub](https://github.com/erlep/Benzin_Brno)
-
----
-
-- ## [**ppBB** - Python Project Benzin Brno - https://erlep.github.io/ppBB](https://erlep.github.io/ppBB)
-
-[**ppBB** (Python Project Benzin Brno)](https://github.com/erlep/ppBB) is **Python** application to monitor petrol prices in Brno city. The web scraping robot runs in the ~~[AWS Cloud](https://aws.amazon.com)~~ [GitHub Actions Cloud](https://github.com/). ppBB app is used as a Javascript renderer for Google Sheet script to monitor petrol prices in Brno city.
 
 ---
 
@@ -69,7 +69,7 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-Version: <mark>v31e</mark> - Modified on <mark>9.12.2022 17:17</mark>
+Version: <mark>v32</mark> - Modified on <mark>02.12.2023 11:26</mark>
 
 ---
 
