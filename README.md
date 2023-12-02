@@ -69,7 +69,7 @@ ToDo Project written in **Python** & **Django** is a cloud-based simple task man
 
 ---
 
-Version: <mark>v31b</mark> - Modified on <mark>9.12.2022 17:17</mark>
+Version: <mark>v31c</mark> - Modified on <mark>9.12.2022 17:17</mark>
 
 ---
 
